@@ -1,1 +1,1 @@
-# Java8-Practice
+# Practice Project for Java8 featurees
